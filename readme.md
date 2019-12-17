@@ -117,7 +117,7 @@ col = ['z','y','x','price','table','depth','carat']
 dia.heatmap(col)
 ```
 
-![output_5_0](.\readme_image\output_5_0.png)
+![output_5_0](./readme_image/output_5_0.png)
 
 
 
@@ -324,21 +324,21 @@ dia.boxplot('cut','price')
 ```
 
 
-![output_13_0](.\readme_image\output_13_0.png)
+![output_13_0](./readme_image/output_13_0.png)
 
 ```python
 dia.boxplot('color','price')
 ```
 
 
-![output_14_0](.\readme_image\output_14_0.png)
+![output_14_0](./readme_image/output_14_0.png)
 
 ```python
 dia.boxplot('clarity','price')
 ```
 
 
-![output_15_0](.\readme_image\output_15_0.png)
+![output_15_0](./readme_image/output_15_0.png)
 
 
 
@@ -983,7 +983,7 @@ dia.heatmap(dia.df.columns)
 ```
 
 
-![output_24_0](.\readme_image\output_24_0.png)
+![output_24_0](./readme_image/output_24_0.png)
 
 
 
